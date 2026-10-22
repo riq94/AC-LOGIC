@@ -1,0 +1,3 @@
+framework,framework_version,requirement_version_id,source_uri,license_id,scope,level,applicability,verification_procedure_id,evidence_id,assessment_result,risk_disposition,reviewer_id,reviewed_at,notes
+OWASP ASVS,5.0.0,<import_verified_versioned_ID>,https://asvs.owasp.org/downloads/,CC-BY-SA-4.0,<project_scope>,2,undetermined,,,,,,,
+NIST SSDF,1.1,<import_verified_practice_ID>,https://csrc.nist.gov/pubs/sp/800/218/final,<review_license>,<project_scope>,,undetermined,,,,,,,

@@ -1,0 +1,148 @@
+{
+  "version": "1.0",
+  "date": "2026-10-22",
+  "phase_count": 18,
+  "file_count_without_manifest": 28,
+  "files": [
+    {
+      "path": "00_MASTER_DIRECTIVE.md",
+      "size_bytes": 13514,
+      "sha256": "b84290a3469f2169e41ef2007bdd86a3a053f623462a83af1a9de2e81489166f"
+    },
+    {
+      "path": "AGENTS.md",
+      "size_bytes": 5403,
+      "sha256": "b9bb1e4f3ea32f90390d9dbbde182a1dc95b00aaebb12b3de5e641b0217e804a"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 2812,
+      "sha256": "d4593db1376c49be456e8b8e057371f64df4b3d16cf300bf52d40d8e472d9a41"
+    },
+    {
+      "path": "phases/AC-00_repository_discovery_and_baseline.md",
+      "size_bytes": 3029,
+      "sha256": "199d28e2aec29a12dd93b410f1f9fc10b474c8159da01f5737e571ced42a83b9"
+    },
+    {
+      "path": "phases/AC-01_product_requirements_architecture_and_threat_model.md",
+      "size_bytes": 3152,
+      "sha256": "cd3661a63515b8857b8bb52d46433e285694bcc5c6cf306debc8d32487b8a287"
+    },
+    {
+      "path": "phases/AC-02_repository_foundation_ci_and_design_system.md",
+      "size_bytes": 3200,
+      "sha256": "3b14ba7f4c5bcc1be1e8f73e1d19719d0d1c3d98f02ab6c8097cf702a6d02ad9"
+    },
+    {
+      "path": "phases/AC-03_identity_rbac_and_tenant_isolation.md",
+      "size_bytes": 3296,
+      "sha256": "5a38c91372ffbc4cc4e1bedcd97644f344695fc0cd3a8c79e1b7ccf12a7fa747"
+    },
+    {
+      "path": "phases/AC-04_database_backend_infrastructure_and_data_integrity.md",
+      "size_bytes": 3043,
+      "sha256": "30dead88b953079cec17dc65895eb2fcf2881de57a046f1b317653c047677940"
+    },
+    {
+      "path": "phases/AC-05_standards_registry_and_assurance_control_mapping.md",
+      "size_bytes": 3162,
+      "sha256": "b029a0a6dbffdc8ff6790b4d41b4a43cbaa80180505e376d8898e9a1077e3dd4"
+    },
+    {
+      "path": "phases/AC-06_portfolio_project_onboarding_and_assessment_scoping.md",
+      "size_bytes": 3055,
+      "sha256": "2e81496faf97539b21cf9d4a3f936dd4fd0a133e4fa25ab3a6156edac79deac6"
+    },
+    {
+      "path": "phases/AC-07_private_evidence_vault_provenance_and_audit.md",
+      "size_bytes": 3111,
+      "sha256": "a85a6693d60194b6bf4f82a38dce26bae1e700cadab93f2340873a741cd7cfc6"
+    },
+    {
+      "path": "phases/AC-08_assessments_findings_remediation_and_retesting.md",
+      "size_bytes": 3137,
+      "sha256": "c14b8714449ffbe2108341666ad7d1792dd345e420a243cbb92b27b4fbb10dbb"
+    },
+    {
+      "path": "phases/AC-09_github_app_integration_and_isolated_repository_analysis.md",
+      "size_bytes": 3883,
+      "sha256": "e1085dfd356f5c97cd827c7a34f67f09a4c7221fa77266c59ad0441587e53034"
+    },
+    {
+      "path": "phases/AC-10_business_logic_database_and_architecture_assurance.md",
+      "size_bytes": 3443,
+      "sha256": "764d134a69fed325875b84428434203eb4be4c0823b9337baa916cc49a6a82e8"
+    },
+    {
+      "path": "phases/AC-11_grounded_ai_advisor_and_ai_engineering_governance.md",
+      "size_bytes": 3688,
+      "sha256": "18e3d3e261ca7ceba856378620937afefe6a6b77aa9a31e79f7b4ecf1a24bc4d"
+    },
+    {
+      "path": "phases/AC-12_independent_review_risk_acceptance_and_release_gating.md",
+      "size_bytes": 3352,
+      "sha256": "0aaa236d252b6f68881d23d1f8c76384a930ed8089affccd335b91bd41bf77e8"
+    },
+    {
+      "path": "phases/AC-13_executive_dashboard_and_assurance_reporting.md",
+      "size_bytes": 3449,
+      "sha256": "260553ffe2e926c375cbabf0960a4439a9e1e2ce3e66db0216fddb95010efb54"
+    },
+    {
+      "path": "phases/AC-14_continuous_monitoring_and_production_operations.md",
+      "size_bytes": 3219,
+      "sha256": "253f409354798e7b8ab718a126a0af67449687340f01058101846a92d443c419"
+    },
+    {
+      "path": "phases/AC-15_comprehensive_verification_and_adversarial_testing.md",
+      "size_bytes": 3316,
+      "sha256": "1dd5757a88b84e89770c877cd8020ddf72ecb9a91fe920e8400f4f0d265fbc11"
+    },
+    {
+      "path": "phases/AC-16_pilot_validation_and_commercial_production_hardening.md",
+      "size_bytes": 3376,
+      "sha256": "0c8a4a492b44d502dd73390ae152bac33ee9c863d28863cbbeecebfdfe794877"
+    },
+    {
+      "path": "phases/AC-17_optional_iot_and_ot_assurance_extension_post-mvp.md",
+      "size_bytes": 3115,
+      "sha256": "40126fdc24a21e6c39238df09ec0985b8b9dd77a205bd49d29f5fd65c45b3d4e"
+    },
+    {
+      "path": "reference/ACCEPTANCE_GATES.md",
+      "size_bytes": 4571,
+      "sha256": "78325c7b65bbf11f361e4b9b4955ad4cf94ce13c9bf5e928af9b2064487d0217"
+    },
+    {
+      "path": "reference/ARCHITECTURE_AND_DATA.md",
+      "size_bytes": 7886,
+      "sha256": "32eb1c0450da155297d895544414ca0f35890d75133d7c2c2afb548f277f580c"
+    },
+    {
+      "path": "reference/CONTROL_MAPPING_TEMPLATE.csv",
+      "size_bytes": 477,
+      "sha256": "f6bbb713f4e62bb76609908e87e043522f599a65903f35ede9c8bd102391e636"
+    },
+    {
+      "path": "reference/REUSABLE_CODEX_PROMPTS.md",
+      "size_bytes": 4139,
+      "sha256": "05487d1f444745f9769be06d8f38d7610b36e2d5ce63ba599f41bece9802d04a"
+    },
+    {
+      "path": "reference/SECURITY_CONTROL_BASELINE.md",
+      "size_bytes": 5969,
+      "sha256": "8c7c9a0ef58b7927370552a130368317ad24ff6ef12252a11d7ef8085fad6efe"
+    },
+    {
+      "path": "reference/STANDARDS_AND_LICENSES.md",
+      "size_bytes": 3166,
+      "sha256": "0de930b05143d0ab3bbd70931ee48468ce07afb8716a9423a3a59424262db0a6"
+    },
+    {
+      "path": "reference/TEST_AND_THREAT_MATRIX.md",
+      "size_bytes": 6115,
+      "sha256": "18845b5a65e5c83bf9d97f59b9ed164bba5b2584478a5e7318d47b4ebd8a38bd"
+    }
+  ]
+}
